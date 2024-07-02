@@ -1,7 +1,9 @@
 import sys
-import paho.mqtt.client as paho
+import paho.mqtt.client as ph
+import json
 
-client = paho.Client()
+
+client = ph.Client()
 
 if client.connect("localhost", 1883, 60) != 0:
     print("couldn't connect to the mqtt broker !")
