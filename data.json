@@ -1,0 +1,52 @@
+[
+  {
+    "customerName": "Ahmed",
+    "orderNumber": "1",
+    "orderName": "latte"
+  },
+  {
+    "customerName": "Sara",
+    "orderNumber": "2",
+    "orderName": "cappuccino"
+  },
+  {
+    "customerName": "John",
+    "orderNumber": "3",
+    "orderName": "espresso"
+  },
+  {
+    "customerName": "Emily",
+    "orderNumber": "4",
+    "orderName": "mocha"
+  },
+  {
+    "customerName": "Michael",
+    "orderNumber": "5",
+    "orderName": "americano"
+  },
+  {
+    "customerName": "Sophia",
+    "orderNumber": "6",
+    "orderName": "macchiato"
+  },
+  {
+    "customerName": "Daniel",
+    "orderNumber": "7",
+    "orderName": "flat white"
+  },
+  {
+    "customerName": "Emma",
+    "orderNumber": "8",
+    "orderName": "iced coffee"
+  },
+  {
+    "customerName": "James",
+    "orderNumber": "9",
+    "orderName": "frappuccino"
+  },
+  {
+    "customerName": "Olivia",
+    "orderNumber": "10",
+    "orderName": "affogato"
+  }
+]
